@@ -1,7 +1,2 @@
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
-# ML_lee
-the code of learing the lesson ML
-#linear regression#
-##Model##
-##Goodness of Funciton##
-##Best Function##
+#视频与课件资料
+http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML16.html
